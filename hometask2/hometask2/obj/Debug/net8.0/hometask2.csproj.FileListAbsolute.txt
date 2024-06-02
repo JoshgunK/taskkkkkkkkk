@@ -1,0 +1,14 @@
+C:\Users\KRMOFF\source\repos\hometask2\hometask2\bin\Debug\net8.0\hometask2.exe
+C:\Users\KRMOFF\source\repos\hometask2\hometask2\bin\Debug\net8.0\hometask2.deps.json
+C:\Users\KRMOFF\source\repos\hometask2\hometask2\bin\Debug\net8.0\hometask2.runtimeconfig.json
+C:\Users\KRMOFF\source\repos\hometask2\hometask2\bin\Debug\net8.0\hometask2.dll
+C:\Users\KRMOFF\source\repos\hometask2\hometask2\bin\Debug\net8.0\hometask2.pdb
+C:\Users\KRMOFF\source\repos\hometask2\hometask2\obj\Debug\net8.0\hometask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KRMOFF\source\repos\hometask2\hometask2\obj\Debug\net8.0\hometask2.AssemblyInfoInputs.cache
+C:\Users\KRMOFF\source\repos\hometask2\hometask2\obj\Debug\net8.0\hometask2.AssemblyInfo.cs
+C:\Users\KRMOFF\source\repos\hometask2\hometask2\obj\Debug\net8.0\hometask2.csproj.CoreCompileInputs.cache
+C:\Users\KRMOFF\source\repos\hometask2\hometask2\obj\Debug\net8.0\hometask2.dll
+C:\Users\KRMOFF\source\repos\hometask2\hometask2\obj\Debug\net8.0\refint\hometask2.dll
+C:\Users\KRMOFF\source\repos\hometask2\hometask2\obj\Debug\net8.0\hometask2.pdb
+C:\Users\KRMOFF\source\repos\hometask2\hometask2\obj\Debug\net8.0\hometask2.genruntimeconfig.cache
+C:\Users\KRMOFF\source\repos\hometask2\hometask2\obj\Debug\net8.0\ref\hometask2.dll
